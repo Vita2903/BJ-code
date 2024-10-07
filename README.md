@@ -11,7 +11,7 @@ Prepares tissue samples with a circular wound using periodic boundary conditions
 
 ### `2_elastic_energy`
 Slowly varies the circle’s radius \(R\) and measures the potential
-energy to study how the elastic modulus \(k_2\) relates to parameters \(k_A\) and \(p_0\).
+energy to study how the elastic modulus \(k_2\) relates to wound parameters \(k_A\) and \(p_0\).
 
 ### `3_dynamics`
 Simulates the dynamics of wound stability under various parameters to determine whether the wound closes or remains open.
