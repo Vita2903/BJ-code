@@ -17,3 +17,6 @@ Simulates the dynamics of wound stability under various parameters to determine 
 
 ### `4_fast_slow`
 Explores the fast and slow phases of wound closure, incorporating fluctuating junctional tensions due to stochasticity of myosin turnover and cell growth in the bulk.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
