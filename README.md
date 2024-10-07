@@ -10,7 +10,8 @@ This repository includes the following subfolders:
 Prepares tissue samples with a circular wound using periodic boundary conditions.
 
 ### `2_elastic_energy`
-Studies the elastic modulus \(k_2\) as it relates to parameters \(k_A\) and \(p_0\) by varying the radius of the wound.
+Slowly varies the circle’s radius \(R\) and measures the potential
+energy to study how the elastic modulus \(k_2\) relates to parameters \(k_A\) and \(p_0\).
 
 ### `3_dynamics`
 Simulates the dynamics of wound stability under various parameters to determine whether the wound closes or remains open.
